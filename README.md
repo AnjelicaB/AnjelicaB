@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+
+- I'm a student currently doing research regarding FPGA-related hardware acceleration
+- I'm a junior studying ECE
 
 <!--
 **AnjelicaB/AnjelicaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
